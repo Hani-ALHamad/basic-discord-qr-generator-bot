@@ -1,6 +1,15 @@
 require('dotenv').config() 
 const { Client, Intents } = require('discord.js')
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] })
+const http = require('http');
+
+http.createServer((req, res) => {
+  res.writeHead(200, {
+    'Content-type': 'text/plain'
+  });
+  res.write('Connected');
+  res.end();
+}).listen(process.env.PORT);
 
 client.on('ready', () => {
   console.log(`${client.user.tag} bot is up and running!`)
