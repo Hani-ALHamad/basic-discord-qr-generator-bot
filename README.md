@@ -5,7 +5,7 @@ I tried to deploy it to Heroku with no luck, instead; i deployed it to Railway.a
 
 - The free API i used : https://goqr.me/api/   
 - Invite link if you want to try it on your Discord server* : https://discord.com/api/oauth2/authorize?client_id=927190745436258324&permissions=3072&scope=bot   
-*im using a free hosting website, it might put the bot to sleep or have limited working hours every month.**   
+*im using a [free hosting service](https://railway.app/), it might put the bot to sleep or have limited working hours every month.**   
 
 How to use: !qr [your text/url]
 
