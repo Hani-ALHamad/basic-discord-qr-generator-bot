@@ -19,4 +19,4 @@ Npm packages i used: discord.js, dotenv.
 ![alt_text](https://raw.githubusercontent.com/Hani-ALHamad/basic-discord-qr-generator-bot/main/banner.jpg)
 
 
-![alt_text](https://raw.githubusercontent.com/Hani-ALHamad/basic-discord-qr-generator-bot/main/message.jpg)
+![alt_text](https://raw.githubusercontent.com/Hani-ALHamad/basic-discord-qr-generator-bot/main/message.jpg) 
